@@ -155,5 +155,5 @@ This project showcases how to build a book recommendation system using both popu
 
 ## Acknowledgments
 
-- Dataset provided by [Book-Crossing Dataset](http://www2.informatik.uni-freiburg.de/~cziegler/BX/).
+- Dataset (https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset)
 - Inspired by various data science and machine learning tutorials.
